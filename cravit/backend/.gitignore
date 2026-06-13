@@ -1,0 +1,7 @@
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Supabase Edge Functions (Secrets)
+.supabase/
